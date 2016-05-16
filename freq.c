@@ -31,7 +31,7 @@ int main()
 
     for ( j = 0; j< SIZE; j++)
     {
-		if (s[j] = 0);
+		if (s[j] != 0)
         printf("%8d%4c%5x%13d\n", j, j, j, s[j]);
     }
 
